@@ -1,0 +1,14 @@
+//
+//  AppSettings.xcconfig
+//  Fibonacci
+//
+//  Created by Dhivya on 5/25/20.
+//  Copyright © 2020 Dhivya. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+UI_COUNT = 25
+CACHE_MULTIPLICATION_FACTOR = 4
+
